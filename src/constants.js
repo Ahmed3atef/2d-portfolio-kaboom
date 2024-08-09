@@ -5,7 +5,7 @@ export const dialogueData = {
     pc: `This is my PC. I work mostly in Django/Python these days.
         I've made a couple of projects in that language. I also like JavaScript. Anyway regardless of the language, I just like programming.
         Here is my <a href="https://github.com/Ahmed3atef" target="_blank">Github</a>!`,
-    "cs-degree": `This is my university degree in social work. I did not obtain a university degree in computer science from Egyptian universities, but I obtained CS50 certificates from Harvard University, which provides distance education. This is because I consider the certificate to be just a piece of paper, and the experience and knowledge behind the certificate is What any programmer aims for, and fortunately, it is available on the Internet and at the highest universities in the world`,
+    "cs-degree": `This is my university degree in social work. I did not obtain a university degree in computer science from Egyptian universities, but I obtained CS50 certificates from Harvard University, which provides distance education.  check my <a href="https://www.linkedin.com/in/ahmed-atef-23510018a/" target="_blank">LinkedIn</a> account to see all my certificates`,
     "sofa-table": `That's my sofa. I like to relax here and watch YouTube. `,
     tv: `That's my TV. I've been watching tech youtubers a lot recently like :
         <a href="https://www.youtube.com/@Codezilla" target="_blank">Codezilla</a>, <a href="https://www.youtube.com/@PythonArab" target="_blank">Python Arabic Community</a> ,

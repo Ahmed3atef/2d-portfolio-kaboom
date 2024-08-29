@@ -9,7 +9,7 @@ export const dialogueData = {
     "sofa-table": `That's my sofa. I like to relax here and watch YouTube. `,
     tv: `That's my TV. I've been watching tech youtubers a lot recently like :
         <a href="https://www.youtube.com/@Codezilla" target="_blank">Codezilla</a>, <a href="https://www.youtube.com/@PythonArab" target="_blank">Python Arabic Community</a> ,
-        <a href="https://www.youtube.com/@freecodecamp" target="_blank">freeCodeCamp.org</a> (sometimes),<a href="https://www.youtube.com/@NetworkChuck" target="_blank"></a> and <a href="https://www.youtube.com/@ElzeroWebSchool" target="_blank">Elzero Web School</a>!`,
+        <a href="https://www.youtube.com/@freecodecamp" target="_blank">freeCodeCamp.org</a> (sometimes),<a href="https://www.youtube.com/@NetworkChuck" target="_blank">NetWrok Chuck</a> and <a href="https://www.youtube.com/@ElzeroWebSchool" target="_blank">Elzero Web School</a>!`,
     bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
     resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1NCykVvaDO0BzShUrev-rVD94CYdFzXVK/view?usp=drive_link" target="_blank">Check it out?</a>
         Contact me at clay674302@gmail.com if you have any interesting job opportunities!`,

@@ -15,7 +15,7 @@ export const dialogueData = {
         Contact me at clay674302@gmail.com if you have any interesting job opportunities!`,
     projects: `Info about this portfolio : I learned this project from Freecodecamp to learn about the different and new technologies for me, but do not expect that I can make games. This is not my specialty,
         but I have a simple background in it. I also have a simple background in creating games using the love2d framework in the Lua language. It's made with the Kaboom.js library which is a library for making games in JavaScript.
-        Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas.project src in <a href="https://github.com/Ahmed3atef/profile_website" target"_blank">profile_website</a>`,
+        Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas.project src in <a href="https://github.com/Ahmed3atef/2d-portfolio-kaboom.git" target"_blank">profile_website</a>`,
     library: `There are a lot of programming books on my shelves. I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
     exit: `If you want to exit Ahmed Atef portfolio, just close the tab.`,
 };

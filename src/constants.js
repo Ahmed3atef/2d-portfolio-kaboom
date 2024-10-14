@@ -11,7 +11,7 @@ export const dialogueData = {
         <a href="https://www.youtube.com/@Codezilla" target="_blank">Codezilla</a>, <a href="https://www.youtube.com/@PythonArab" target="_blank">Python Arabic Community</a> ,
         <a href="https://www.youtube.com/@freecodecamp" target="_blank">freeCodeCamp.org</a> (sometimes),<a href="https://www.youtube.com/@NetworkChuck" target="_blank">NetWrok Chuck</a> and <a href="https://www.youtube.com/@ElzeroWebSchool" target="_blank">Elzero Web School</a>!`,
     bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-    resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1NCykVvaDO0BzShUrev-rVD94CYdFzXVK/view?usp=drive_link" target="_blank">Check it out?</a>
+    resume: `This is my desk and on it is my resume. <a href="https://clay674302.hackerresume.io/8969571e-5a65-47a4-9bc0-8a339f5dc664" target="_blank">Check it out?</a>
         Contact me at clay674302@gmail.com if you have any interesting job opportunities!`,
     projects: `Info about this portfolio : I learned this project from Freecodecamp to learn about the different and new technologies for me, but do not expect that I can make games. This is not my specialty,
         but I have a simple background in it. I also have a simple background in creating games using the love2d framework in the Lua language. It's made with the Kaboom.js library which is a library for making games in JavaScript.
